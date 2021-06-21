@@ -1,0 +1,13 @@
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\bin\Debug\netcoreapp3.1\C1 Tipos de datos básicos.exe
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\bin\Debug\netcoreapp3.1\C1 Tipos de datos básicos.deps.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\bin\Debug\netcoreapp3.1\C1 Tipos de datos básicos.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\bin\Debug\netcoreapp3.1\C1 Tipos de datos básicos.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\bin\Debug\netcoreapp3.1\C1 Tipos de datos básicos.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\bin\Debug\netcoreapp3.1\C1 Tipos de datos básicos.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.csproj.AssemblyReference.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C1 Tipos de datos básicos\obj\Debug\netcoreapp3.1\C1 Tipos de datos básicos.genruntimeconfig.cache
