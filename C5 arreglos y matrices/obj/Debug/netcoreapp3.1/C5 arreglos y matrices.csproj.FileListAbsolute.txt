@@ -1,0 +1,12 @@
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\bin\Debug\netcoreapp3.1\C5 arreglos y matrices.exe
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\bin\Debug\netcoreapp3.1\C5 arreglos y matrices.deps.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\bin\Debug\netcoreapp3.1\C5 arreglos y matrices.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\bin\Debug\netcoreapp3.1\C5 arreglos y matrices.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\bin\Debug\netcoreapp3.1\C5 arreglos y matrices.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\bin\Debug\netcoreapp3.1\C5 arreglos y matrices.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\obj\Debug\netcoreapp3.1\C5 arreglos y matrices.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\obj\Debug\netcoreapp3.1\C5 arreglos y matrices.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\obj\Debug\netcoreapp3.1\C5 arreglos y matrices.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\obj\Debug\netcoreapp3.1\C5 arreglos y matrices.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\obj\Debug\netcoreapp3.1\C5 arreglos y matrices.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C5 arreglos y matrices\obj\Debug\netcoreapp3.1\C5 arreglos y matrices.genruntimeconfig.cache
