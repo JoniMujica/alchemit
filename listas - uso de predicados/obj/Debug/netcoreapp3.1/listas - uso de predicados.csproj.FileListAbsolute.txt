@@ -1,0 +1,12 @@
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\bin\Debug\netcoreapp3.1\listas - uso de predicados.exe
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\bin\Debug\netcoreapp3.1\listas - uso de predicados.deps.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\bin\Debug\netcoreapp3.1\listas - uso de predicados.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\bin\Debug\netcoreapp3.1\listas - uso de predicados.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\bin\Debug\netcoreapp3.1\listas - uso de predicados.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\bin\Debug\netcoreapp3.1\listas - uso de predicados.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\obj\Debug\netcoreapp3.1\listas - uso de predicados.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\obj\Debug\netcoreapp3.1\listas - uso de predicados.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\obj\Debug\netcoreapp3.1\listas - uso de predicados.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\obj\Debug\netcoreapp3.1\listas - uso de predicados.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\obj\Debug\netcoreapp3.1\listas - uso de predicados.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\listas - uso de predicados\obj\Debug\netcoreapp3.1\listas - uso de predicados.genruntimeconfig.cache
