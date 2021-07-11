@@ -1,0 +1,13 @@
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\bin\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.exe
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\bin\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.deps.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\bin\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\bin\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\bin\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\bin\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.csproj.AssemblyReference.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C9 ESTRUCTURA DE SALTO\obj\Debug\netcoreapp3.1\C9 ESTRUCTURA DE SALTO.genruntimeconfig.cache

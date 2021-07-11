@@ -1,0 +1,13 @@
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\bin\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.exe
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\bin\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.deps.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\bin\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\bin\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\bin\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\bin\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.csproj.AssemblyReference.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.dll
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.pdb
+C:\Users\jonim\Documents\CAPACITACION ALCHEMIT\C8 estructuras de control de selección y de iteración\obj\Debug\netcoreapp3.1\C8 estructuras de control de selección y de iteración.genruntimeconfig.cache
